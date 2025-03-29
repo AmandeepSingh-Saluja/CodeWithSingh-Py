@@ -1969,7 +1969,7 @@ transition-duration: 1s;
   }
   .education-section-container {
     padding: 100px 0; /* Adjust padding as needed */
-    background-color: var(--color-dark-mode); /* Background color */
+    background-color: var(--color-background); /* Background color */
   }
   
   .education-section {
@@ -1984,7 +1984,7 @@ transition-duration: 1s;
   .section-heading-article {
     font-size: 2.5rem; /* Size of the section heading */
     font-weight: bold; /* Bold text */
-    color: var(--color-black); /* Text color */
+    color: var(--color-text); /* Text color */
   }
   
   .education-info {
@@ -2011,5 +2011,5 @@ transition-duration: 1s;
   
   .education-item p {
     font-size: 1.2rem; /* Size of the description text */
-    color: var(--color-gray); /* Color for the description text */
+    color:var(--color-white); /* Color for the description text */
   }
