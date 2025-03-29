@@ -1,7 +1,7 @@
-# <a href= target="_blank">My Portfolio</a>
+# <a href="https://amandeepsingh-saluja.github.io/CodeWithSingh-Py/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://codewithmayank-py.github.io/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://amandeepsingh-saluja.github.io/CodeWithSingh-Py/)
 [![Author](https://img.shields.io/badge/Author-Amandeep%20Singh%20Saluja-purple.svg)](https://github.com/AmandeepSingh-Saluja/CodeWithSingh-Py)
 <a href="https://github.com/CodeWithMayank-Py/MayankPaliwal.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
