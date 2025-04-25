@@ -998,13 +998,13 @@ noscript{
 }
 .frontend-dev-heading{
     width: 100%;
-    text-align: center;
+    text-align: left;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 3rem;
     font-weight: 900;
-    height: 100px;
+    height: 90px;
     letter-spacing: 5px;
     background-image: -webkit-gradient(linear,left top,right top,var(--static-heading-gradient-blue),var(--static-heading-gradient-pink));
     background-image: -webkit-linear-gradient(left,var(--static-heading-gradient-blue),var(--static-heading-gradient-pink));
