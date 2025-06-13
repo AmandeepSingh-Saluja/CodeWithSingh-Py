@@ -3,7 +3,6 @@
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://amandeepsingh-saluja.github.io/CodeWithSingh-Py/)
 [![Author](https://img.shields.io/badge/Author-Amandeep%20Singh%20Saluja-purple.svg)](https://github.com/AmandeepSingh-Saluja/CodeWithSingh-Py)
-<a href="https://github.com/CodeWithMayank-Py/MayankPaliwal.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 :star: Star me on GitHub — it helps!
 
